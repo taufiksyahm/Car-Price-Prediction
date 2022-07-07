@@ -7,7 +7,7 @@ Nama Mentor: Aditya Bariq Ikhsan
 
 Nama Dataset: Car Price Prediction
 
-Link Dataset: https://www.kaggle.com/datasets/hellbuoy/car-price-prediction![gambar](https://user-images.githubusercontent.com/103974803/177761738-a62abaeb-7db7-4a16-b021-7cdc233fef55.png)
+Link Dataset: https://www.kaggle.com/datasets/hellbuoy/car-price-prediction
 
 Problem: regression
 
