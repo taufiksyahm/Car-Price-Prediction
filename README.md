@@ -1,6 +1,6 @@
 # Final Project Kelompok 1
 Anggota Kelompok:
-- Taufik Syah Mauludin
+- Taufik Syah Mauludin 
 - Evylia Yanuar Laily 
 
 Nama Mentor: Aditya Bariq Ikhsan 
@@ -13,6 +13,8 @@ Problem: regression
 
 Final Model: Random Forest Regressor
 
-Link Repositori: https://github.com/taufiksyahm/Car-Price-Prediction
+Link Repositori:
+- https://github.com/taufiksyahm/final-project-kelompok-1-aditya
+- https://github.com/EvyliaYanuar/final-project-kelompok-01-adit
 
-Link PPT: https://docs.google.com/presentation/d/1BUwxMQoDuBQ2O7szYmirxGL6ZYaFA2ll/edit?usp=sharing&ouid=102915702400575016336&rtpof=true&sd=true
+Link PPT: https://docs.google.com/presentation/d/1nMUPJzMm-kxTYNazvkpZPUteqdvtG3zX/edit?usp=sharing&ouid=105806590256268694806&rtpof=true&sd=true
