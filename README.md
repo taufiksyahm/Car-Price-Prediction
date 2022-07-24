@@ -1,4 +1,8 @@
 # Final Project Kelompok 1
+
+Sebuah perusahaan mobil Cina Geely Auto bercita-cita untuk memasuki pasar AS dengan mendirikan unit manufaktur mereka di sana dan memproduksi mobil secara lokal untuk memberikan persaingan kepada rekan-rekan mereka di AS dan Eropa. Perusahaan ingin mengetahui variabel mana yang signifikan dalam memprediksi harga mobil dan seberapa baik variabel tersebut menggambarkan harga mobil. Project ini diminta untuk memodelkan harga mobil dengan variabel bebas yang tersedia. Model akhir yang digunakan adalah model random forest regressor. Managemen perusahaan mobil Cina Geely Auto sebaiknya memperhatikan spesifikasi enginesize, curbweight, hightwaympg, horsepower, dan carwidth untuk memenuhi tingkat harga tertentu. Model random forest regressor akan menjadi cara yang baik bagi manajemen untuk memahami dinamika harga pasar baru.
+
+
 Anggota Kelompok:
 - Taufik Syah Mauludin 
 - Evylia Yanuar Laily 
